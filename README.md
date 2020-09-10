@@ -1,3 +1,3 @@
 # Conexion-desde-una-Api-Php-a-la-plataforma-de-wordprees-
 
-Importante tener composer y descar sus paquetes 
+Importante tener composer y descargar sus paquetes 
