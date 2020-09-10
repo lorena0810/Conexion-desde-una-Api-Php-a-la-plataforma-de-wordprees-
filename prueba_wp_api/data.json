@@ -1,0 +1,16 @@
+[
+   "inventory":{
+    "sku": "21",
+    "qty":"100",
+    "name":"Premium Quality2.0",
+    "price":"12"
+   },
+   {
+    "sku": "20",
+    "qty":"100",
+    "name":"Prueba2.0",
+    "price":"12"
+   },
+
+
+]

@@ -1,0 +1,15 @@
+{
+    "name": "usuario/prueba2",
+    "description": "API prueba Woocommerce",
+    "license": "MTI",
+    "authors": [
+        {
+            "name": "lorena0810",
+            "email": "lorena0810reyes@gmail.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0",
+        "phpunit/phpunit": "~9.3"
+    }
+}
